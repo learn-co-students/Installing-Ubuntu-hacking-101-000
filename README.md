@@ -1,8 +1,8 @@
 # Title
-Local & Offsite
+Installing Ubuntu
 
 
 ## Description
-This video explores the 4 different types of virtualization.
+To complete the lab, you will want to be on a desktop device. 
 
-<iframe width="640" height="480" src="//www.youtube.com/embed/wlB4NNg528g" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1ZBjeLqMmKuD4CnoHvUtOXW0iHRIW5roc/preview" width="640" height="480"></iframe>
