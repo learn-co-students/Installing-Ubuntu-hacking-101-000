@@ -1,5 +1,4 @@
-# Title
-Installing Ubunto
+# Lab Practice: Installing
 
 
 ## Description
